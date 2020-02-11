@@ -22,7 +22,7 @@ cssutils==0.9.10b1
 ddt==1.1.1
 decorator==3.3.3
 diff-match-patch==20121119
-django==1.8.15
+django==1.11.28
 django-admin-changelist-stats==0.2.post0.dev1
 django-appconf==1.0.1
 django-autoslug==1.7.1
