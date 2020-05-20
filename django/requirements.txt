@@ -78,7 +78,7 @@ holvi-fintech==2017.6.27a0
 holvi-vault-common>=2015.10.14a
 holvi-channels>=201703140820
 html5lib==0.9999999
-httplib2==0.7.4
+httplib2==0.18.0
 idna==2.0
 ipaddress==1.0.14
 ipdb==0.6.1
