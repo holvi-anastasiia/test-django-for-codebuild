@@ -56,7 +56,7 @@ django-templatetag-sugar==0.1
 django-timezone-field==1.1
 django-transaction-hooks==0.2
 django-twitter-tag==0.4.0
-django-two-factor-auth==1.5.0
+django-two-factor-auth==1.12
 django-phonenumber-field==0.7.2  # required by django-two-factor-auth
 django-waffle==0.11.post0.dev3
 # The version of django rest framework is patched by Holvi
