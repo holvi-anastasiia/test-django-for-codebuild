@@ -14,7 +14,7 @@ chardet==2.3.0
 configobj==4.7.2
 construct==2.0
 coverage==3.7.1
-cryptography==1.8.1
+cryptography==3.2
 asn1crypto==0.21.0
 cssmin==0.2.0
 cssselect==0.6.1
