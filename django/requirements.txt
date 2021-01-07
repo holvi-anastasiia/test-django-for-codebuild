@@ -87,7 +87,7 @@ jdcal==1.2
 jsmin==2.0.9
 jsonpickle==0.4.0
 kombu==3.0.35
-lxml==3.4.4
+lxml==4.6.2
 mailchimp==2.0.9
 Markdown==2.6.4
 medusa==0.5.4
