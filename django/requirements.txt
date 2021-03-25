@@ -127,7 +127,7 @@ python-stdnum==1.6.post0.dev2
 python-twitter==0.8.2
 pytz==2016.4
 PyXB==1.2.4
-PyYAML==3.10
+PyYAML==5.4
 qrcode==5.1
 raven==5.24.3
 contextlib2==0.5.4
