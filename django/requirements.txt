@@ -134,7 +134,7 @@ contextlib2==0.5.4
 redis==2.10.5
 requests==2.8.1
 requests-oauthlib==0.6.0
-rsa==3.1.4
+rsa==4.7
 setuptools==34.0.1
 simplegeneric==0.8.1
 simplejson==2.5.2
